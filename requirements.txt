@@ -13,3 +13,4 @@ pysdot >= 0.2.2
 scikit-learn >= 1.0.1
 tensorflow >= 2.5.0
 tensorflow-probability >= 0.15.0
+statsmodels >= 0.13.1
